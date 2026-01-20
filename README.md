@@ -6,4 +6,4 @@
 #improve efficiency while studying data. Users are also able to save their work to come back to in the future, and are able to 
 #send their projects to other potential collaborators.
 
-# more documentation is available at [https://adamjsmith117.github.io/streamlinevr-webpage/](https://www.youtube.com/watch?v=FDP1fHVc1tM)
+# more documentation is available at (https://www.youtube.com/watch?v=FDP1fHVc1tM)
